@@ -75,8 +75,8 @@
 .avril-tabs-work {
   position: absolute;
   overflow: hidden!important;
-  background: #262626;
-  top: 0;
+  background: #333639;
+  top: 0; 
   left: 78px;
   right: 50px
 }
@@ -118,7 +118,7 @@
   font-size: 13px;
   padding: 0 26px 0 10px;
   vertical-align: top;
-  transition: .8s
+  /*transition: .8s*/
 }
 .avril-tabs-work li,
 .avril-tabs-work li * {
@@ -126,7 +126,7 @@
   display: inline-block
 }
 .avril-tabs-work li:hover {
-  background: #262626;
+  background: #232323 !important;
 }
 #working-set-list-container>div:last-child ul {
   padding-bottom: 0
